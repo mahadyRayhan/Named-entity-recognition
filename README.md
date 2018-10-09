@@ -1,1 +1,1 @@
-# Named-entity-recognition
+### To configuring Stanford Parser and Stanford NER Tagger with NLTK please follow "https://blog.manash.me/configuring-stanford-parser-and-stanford-ner-tagger-with-nltk-in-python-on-windows-f685483c374a"
